@@ -1,5 +1,3 @@
-# Healthcare-data-analysis
-A healthcare capstone project analyzing patient encounter costs and predicting health risks using SQL and Power BI.
 # Healthcare Data Analysis
 
 This project is a comprehensive capstone focused on **Patient Encounter Cost and Risk Analysis in Healthcare Systems**, aimed at improving clinical outcomes and optimizing healthcare resource allocation through data-driven insights.
