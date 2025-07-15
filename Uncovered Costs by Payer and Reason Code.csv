@@ -1,0 +1,75 @@
+﻿Sum of UncoveredCost,REASONDESCRIPTION,Sum of PAYER_COVERAGE,Sum of TOTAL_CLAIM_COST
+52458123.30000002,NULL,20526497.4,72984620.7
+13411519.549999999,Normal pregnancy,7509153.2,20920672.75
+644452.6399999999,Sepsis (disorder),0,644452.64
+634319.5899999997,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),0,634319.59
+576202.2300000001,Malignant neoplasm of breast (disorder),582002.85,1158205.08
+481798.6600000002,Chronic congestive heart failure (disorder),451408.8,933207.46
+451588.0099999999,Acute bronchitis (disorder),210473.49,662061.5
+346833.54,COVID-19,879580.36,1226413.9
+258448.68,Malignant tumor of colon,278962.39,537411.07
+190009.5199999999,Hyperlipidemia,171808.36,361817.88
+189855.42999999996,Overlapping malignant neoplasm of colon,27657.81,217513.24
+98568.79999999994,Acute viral pharyngitis (disorder),46218.34,144787.14
+76727.42,Secondary malignant neoplasm of colon,0,76727.42
+64930.469999999994,Streptococcal sore throat (disorder),53049.61,117980.08
+59913.95,Injury of anterior cruciate ligament,56592.3,116506.25
+55473.129999999954,Viral sinusitis (disorder),11635.88,67109.01
+48022.55,Non-small cell lung cancer (disorder),24875.19,72897.74
+42356.660000000025,Anemia (disorder),11991.34,54348
+37254.02,Suspected lung cancer (situation),42443.83,79697.85
+34649.82,Appendicitis,0,34649.82
+25074.25,Rupture of patellar tendon,8091.92,33166.17
+23264.789999999997,Fetus with unknown complication,18813.23,42078.02
+20775.17,Non-small cell carcinoma of lung  TNM stage 1 (disorder),24100.87,44876.04
+19456.200000000004,Impacted molars,26938.74,46394.94
+15687.109999999995,Injury of medial collateral ligament of knee,34208.58,49895.69
+15143.260000000006,Sinusitis (disorder),1250.43,16393.69
+14166.669999999996,Alzheimer's disease (disorder),12504.21,26670.88
+14065.92,Escherichia coli urinary tract infection,2788,16853.92
+13409.709999999997,Asthma,2755.83,16165.54
+12363.869999999992,Drug overdose,2985.03,15348.9
+9128.84,Neoplasm of prostate,37328.93,46457.77
+8729.8,Cystitis,3016.06,11745.86
+8654.92,Opioid abuse (disorder),2239.72,10894.64
+7252.200000000001,Blighted ovum,1796.22,9048.42
+6394.050000000001,Acute bacterial sinusitis (disorder),970.81,7364.86
+5908.870000000001,Acute Cholecystitis,22831.93,28740.8
+5403.16,Fetus with chromosomal abnormality,898.11,6301.27
+4708.730000000002,Posttraumatic stress disorder,158.15,4866.88
+2726.44,Fracture of forearm,1465.51,4191.95
+2084.55,Primary fibromyalgia syndrome,2283.13,4367.68
+1624.44,Concussion with no loss of consciousness,428.76,2053.2
+1602.25,First degree burn,194.3,1796.55
+1544.1100000000001,Fracture subluxation of wrist,680.19,2224.3
+1470.1599999999999,Fracture of clavicle,583.04,2053.2
+1434.79,Fracture of ankle,789.51,2224.3
+1179.7800000000002,Osteoarthritis of knee,24.27,1204.05
+1112.53,Familial Alzheimer's disease of early onset (disorder),0,1112.53
+1108.9999999999998,Injury of tendon of the rotator cuff of shoulder,88.7,1197.7
+1089.95,Closed fracture of hip,364.4,1454.35
+842.9700000000003,Otitis media,220.21,1063.18
+826.59,Chronic intractable migraine without aura,38.17,864.76
+746.1800000000001,Concussion with loss of consciousness,109.32,855.5
+723.51,Osteoarthritis of hip,24.27,747.78
+701.8299999999999,Second degree burn,153.67,855.5
+699.23,Rheumatoid arthritis,96.3,795.53
+691.1700000000001,Chronic pain,639.26,1330.43
+587.75,Fracture of rib,182.2,769.95
+565.72,Gout,320.77,886.49
+564.9,Idiopathic atrophic hypothyroidism,291.52,856.42
+555.8799999999999,Localized  primary osteoarthritis of the hand,0,555.88
+440.49999999999994,Hypertension,72.81,513.31
+232.38,Bleeding from anus,24.27,256.65
+212.3,Bullet wound,44.35,256.65
+196.44,Primary malignant neoplasm of colon,145.76,342.2
+175.86,Laparoscopic Removal of Gall Bladder,80.79,256.65
+171.1,Contact dermatitis,0,171.1
+124.79,Fracture of vertebral column without spinal cord injury,72.88,197.67
+110.39,Polyp of colon,60.71,171.1
+85.55,Third degree burn,0,85.55
+0,Cardiac Arrest,0,0
+0,Myocardial Infarction,0,0
+0,Pneumonia,0,0
+0,Small cell carcinoma of lung (disorder),0,0
+0,Stroke,0,0
